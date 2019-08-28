@@ -45,7 +45,7 @@ soraka
 ├── soraka-weixin -- 微信模块（待实现 端口：8004）
 ```
 
-前端项目链接：https://gitee.com/beiyoufx/soraka-view
+前端项目链接：https://github.com/huangkangyuan/soraka-view
 
 - 用户管理：完整的用户管理授权体系
 - 部门管理：配置系统组织机构，树结构展现，可随意调整上下级
@@ -82,23 +82,3 @@ soraka
 | vuex               | 3.0.1  | 前端状态管理 | https://github.com/vuejs/vuex                   |
 | vue-router         | 3.0.1  | 前端路由     | https://github.com/vuejs/vue-router             |
 | vue-admin-template |        | 后台模板     | https://github.com/PanJiaChen/vue-element-admin |
-
-# 文档
-
-1. [快速开始](soraka-wiki/快速开始.md)
-2. [常见问题](soraka-wiki/常见问题.md)
-
-# 截图
-
-![Soraka演示](https://gitee.com/beiyoufx/soraka-view/raw/master/demo.gif)
-
-# 关注我们
-
-作者深知一个人的精力是有限的，如果觉得项目对您有帮助，欢迎fork和star，加入QQ群一起维护Soraka吧！
-**交流QQ群：808305454**
-
-公众号 **Java实践笔记**
-
-分享Java开发中常用的技术，分享软件开发的新技术，分享业内相关的解决方案和互联网资讯，让自己做一个紧跟时代潮流的程序猿~
-
-![img](https://gitee.com/beiyoufx/soraka-view/raw/master/javanoteqr.jpg)

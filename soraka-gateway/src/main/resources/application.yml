@@ -42,6 +42,7 @@ security:
     resource:
       jwt:
         key-uri: ${security.auth.server}/oauth/token_key #解析jwt令牌所需要密钥的地址
+        key-value:
 #日志
 logging:
   level:
